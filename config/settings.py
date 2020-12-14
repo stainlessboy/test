@@ -47,6 +47,7 @@ INSTALLED_APPS = [
     'main'
 ]
 
+
 AUTH_USER_MODEL = 'main.User'
 
 MIDDLEWARE = [
